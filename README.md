@@ -67,5 +67,4 @@ Cualquier otra funcionalidad o cambio debe quedar debidamente documentado.
 + Se ha creado el botón 'energia.png' el cual sustituye al uso de la barra espacio para dispositivos de pantalla vertical. Su posición en la pantalla se ha hecho pensando en la ergonomía.
 + Se ha creado un 'sprite' que agrupa a todos los botones de la aplicación, añadiendo animaciones a los botones en el caso de "hover".
 + Todos los archivos html y css han sido validados a través de https://validator.w3.org/ y https://jigsaw.w3.org/css-validator/ .
-+ Se incluye una versión minimificada: 'lunarlandermin.html', 'instruccionesmin.html' y 'acercademin.html'. Se empleó https://www.willpeavy.com/minifier/
-+ Se incluye una versión minimificada: 'horizontalmin.css' y 'verticalmin.css'. Se empleó https://www.willpeavy.com/minifier/
++ Se incluye una versión minimificada en un branch del repositorio.
